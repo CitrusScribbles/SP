@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/xlile/Desktop/Third Party Applications/Games/ScholasticPainter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/xlile/Desktop/Third Party Applications/Games/ScholasticPainter/Content/Tutorial.umap",
+				"C:/Users/xlile/Desktop/Third Party Applications/Games/ScholasticPainter/Content/UI/Color_Concept_Art_Improved_Transparent.uasset",
+				"C:/Users/xlile/Desktop/Third Party Applications/Games/ScholasticPainter/Content/UI/Color_Concept_Art_Improved_Transparent_Sprite.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset"
+			]
+		}
+	]
+}
